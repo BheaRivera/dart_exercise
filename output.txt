@@ -1,0 +1,5 @@
+Student Name: Bhea Rivera
+Calculated Average Grade: 88.50%
+Remainder Score Check: 5
+Has Passed Course: true
+Qualifies for Honors: false
